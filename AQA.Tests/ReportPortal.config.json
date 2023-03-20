@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "server": {
+    "url": "",
+    "project": "",
+    "authentication": {
+      "uuid": ""
+    }
+  },
+  "launch": {
+    "name": "",
+    "description": "Run from Visual Studio test explorer.",
+    "debugMode": true,
+    "attributes": [ "Debug" ]
+  }
+}

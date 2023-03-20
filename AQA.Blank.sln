@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQA.Framework", "AQA.Framework\AQA.Framework.csproj", "{7FC62086-C67D-4E8D-99D1-1B199B11A5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQA.Tests", "AQA.Tests\AQA.Tests.csproj", "{7329FC6B-C76E-4D3D-9D21-A3831A2D96D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC62086-C67D-4E8D-99D1-1B199B11A5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC62086-C67D-4E8D-99D1-1B199B11A5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC62086-C67D-4E8D-99D1-1B199B11A5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC62086-C67D-4E8D-99D1-1B199B11A5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7329FC6B-C76E-4D3D-9D21-A3831A2D96D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7329FC6B-C76E-4D3D-9D21-A3831A2D96D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7329FC6B-C76E-4D3D-9D21-A3831A2D96D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7329FC6B-C76E-4D3D-9D21-A3831A2D96D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
